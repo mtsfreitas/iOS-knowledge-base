@@ -2,7 +2,7 @@
 
 # Meus artigos para estudos
 
-Repositório criado para armazenar resumos / posts.
+Repositório criado para armazenar meus resumos de estudos.
 
 ### Os resumos estão organizados conforme a tabela abaixo:
 

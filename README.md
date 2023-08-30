@@ -8,7 +8,7 @@ Repositório criado para armazenar resumos / posts.
 
 | Conteúdo    | Descrição do Conteúdo     | Link |
 | --------------|-----|-----|
-| Closures 	|  <ul><li>What?</li><li>Why?</li><li>Where?</li><li>How?</li>	| [![Link do Resumo](https://img.shields.io/badge/Ver%20Resumo%20-blue?style=for-the-badge)](https://github.com/mgoncalves-chaves/dio-resumos-git-e-github/blob/main/resumos/versionamento-git-e-github.md) |
+| Closures 	|  <ul><li>What?</li><li>Why?</li><li>Where?</li><li>How?</li>	| [![Link do Resumo](https://img.shields.io/badge/Ver%20Resumo%20-blue?style=for-the-badge)](https://github.com/mtsfreitas/swift-academy) |
 
 
 ## Referências
